@@ -1,7 +1,7 @@
 export const accordionData = [
   {
     id: 1,
-    question: "What is React?",
+    question: "What is React.js?",
     answer:
       "React is a JavaScript library for building fast and interactive user interfaces using a component-based architecture.",
   },
